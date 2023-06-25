@@ -10,7 +10,7 @@ those. if you come back from the future knowing the result of a random number an
 because you will influence your choice on the past random number and the chain of events, the past value will change and become completely different,
 thus, this algorithm generates real random numbers and protects against time travelers from the future.
 
-## Реализация и примеры использования:
+## Implementation and usage examples:
 
 Example. Let's take a lottery with 100 tickets with values from 0 to 99.
 After all tickets are purchased, a lottery draw takes place.
