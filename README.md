@@ -1,6 +1,6 @@
 # True Random Number Generator based on game theory 
 
-This document presents an algorithm for generating real random numbers based on the SmartHoldem Blockchain and game theory.
+This document presents an algorithm for generating real random numbers based on the SmartHoldem & BitShares Blockchain and game theory.
 
 Proof of getting a time-independent random number, also for time travelers.
 
