@@ -15,6 +15,4 @@ thus, this algorithm generates real random numbers and protects against time tra
 Example. Let's take a lottery with 100 tickets with values from 0 to 99.
 After all tickets are purchased, a lottery draw takes place.
 
-...
-
-coming soon...
+details https://smartholdem.io/rng
